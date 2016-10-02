@@ -19,6 +19,34 @@ html {
   box-sizing: inherit;
 }
 
-body {
-  margin: 0;
+
+a {
+  color: #000;
+}
+
+.yotta-tight {
+  font-size: 3.5832rem;
+  line-height: 3.5832rem;
+}
+
+.hover-line:hover {
+  border-bottom: #000 solid 4px;
+}
+
+.hover-box:hover {
+  border: #000 solid 4px;
+}
+
+.med {
+  font-weight: 500;
+}
+
+.social-icons {
+  width: 5%;
+  display: inline-block;
+  padding: 0.75em;
+}
+
+#contact-icon {
+  width: 100%;
 }
