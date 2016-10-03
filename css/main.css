@@ -70,6 +70,7 @@ a {
 .box {
   border: #000 solid 4px;
   padding: 0.25em 0.5em;
+  display: inline-block;
 }
 
 .box:hover {
@@ -80,7 +81,7 @@ a {
   color: #b3b3b3;
   border: #b3b3b3 solid 4px;
   padding: 0.25em 0.5em;
-  font-weight: 400;
+  display: inline-block;
 }
 
 .light-box:hover {
@@ -91,7 +92,7 @@ a {
 
 /** SUB NAVs **/
 
-.nav-resume {
+.nav-sub {
   border-bottom: #000 solid 10px;
 }
 
@@ -101,5 +102,9 @@ a {
 
 .line-top:hover {
   border-top: #ffafac solid 4px;
+}
+
+.border-top {
+  border-top: #000 solid 10px;
 }
 
