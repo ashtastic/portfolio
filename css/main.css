@@ -11,6 +11,7 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
 
+  font-family: 'Rubik Mono One', sans-serif;
   font-family: 'Rubik', sans-serif;
 
 }
@@ -19,34 +20,86 @@ html {
   box-sizing: inherit;
 }
 
+/** EXTRA TYPE FORMATING **/
+
+.logo {
+  font-family: 'Rubik Mono One', sans-serif;
+  padding: 0.25em 0.5em 0.25em 0;
+
+}
+
+p {
+  font-weight: 300;
+}
+
+.med, strong {
+  font-weight: 500;
+}
+
+.blue {
+  color: #9dedf2;
+}
+
+.pink {
+  color: #ffafac;
+}
+
+.light {
+  color: #b3b3b3;
+}
+
+.mono {
+  font-family: 'Rubik Mono One', sans-serif;
+}
+
+
+/** LINKS **/
 
 a {
   color: #000;
 }
 
-.yotta-tight {
-  font-size: 3.5832rem;
-  line-height: 3.5832rem;
+.line {
+  border-bottom: #fff solid 4px;
 }
 
-.hover-line:hover {
+.line:hover {
   border-bottom: #000 solid 4px;
 }
 
-.hover-box:hover {
+.box {
+  border: #000 solid 4px;
+  padding: 0.25em 0.5em;
+}
+
+.box:hover {
   border: #000 solid 4px;
 }
 
-.med {
-  font-weight: 500;
+.light-box {
+  color: #b3b3b3;
+  border: #b3b3b3 solid 4px;
+  padding: 0.25em 0.5em;
+  font-weight: 400;
 }
 
-.social-icons {
-  width: 5%;
-  display: inline-block;
-  padding: 0.75em;
+.light-box:hover {
+  color: #000;
+  border: #000 solid 4px;
 }
 
-#contact-icon {
-  width: 100%;
+
+/** SUB NAVs **/
+
+.nav-resume {
+  border-bottom: #000 solid 10px;
 }
+
+.line-top {
+  border-top: #fff solid 4px;
+}
+
+.line-top:hover {
+  border-top: #ffafac solid 4px;
+}
+
