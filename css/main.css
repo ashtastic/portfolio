@@ -22,18 +22,16 @@ html {
 
 /** EXTRA TYPE FORMATING **/
 
-.logo {
-  font-family: 'Rubik Mono One', sans-serif;
-  padding: 0.25em 0.5em 0.25em 0;
-
-}
-
 p {
   font-weight: 300;
 }
 
-.med, strong {
+.strong, strong {
   font-weight: 500;
+}
+
+.med {
+  font-weight: 400;
 }
 
 .blue {
@@ -44,12 +42,24 @@ p {
   color: #ffafac;
 }
 
+.yellow {
+  color: #ffcb00;
+}
+
 .light {
   color: #b3b3b3;
 }
 
 .mono {
   font-family: 'Rubik Mono One', sans-serif;
+}
+
+h3 {
+  color: #ffcb00;
+}
+
+h4 {
+  color: #9dedf2;
 }
 
 
@@ -67,26 +77,30 @@ a {
   border-bottom: #000 solid 4px;
 }
 
-.box {
+.pink-box {
   border: #000 solid 4px;
+  background: #ffafac;
   padding: 0.25em 0.5em;
   display: inline-block;
 }
 
-.box:hover {
+.pink-box:hover {
   border: #000 solid 4px;
+  background: none;
 }
 
-.light-box {
-  color: #b3b3b3;
-  border: #b3b3b3 solid 4px;
-  padding: 0.25em 0.5em;
-  display: inline-block;
-}
-
-.light-box:hover {
+.blue-box {
   color: #000;
   border: #000 solid 4px;
+  background: #9dedf2;
+  padding: 0.25em 0.5em;
+  display: inline-block;
+}
+
+.blue-box:hover {
+  color: #000;
+  border: #000 solid 4px;
+  background: none;
 }
 
 
