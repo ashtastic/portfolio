@@ -54,71 +54,100 @@ p {
   font-family: 'Rubik Mono One', sans-serif;
 }
 
-h3 {
-  color: #ffcb00;
-}
-
-h4 {
-  color: #9dedf2;
-}
-
 
 /** LINKS **/
 
 a {
   color: #000;
+  text-decoration: none;
 }
 
-.line {
+.line-t {
+  border-top: #fff solid 4px;
+}
+
+.line-t:hover {
+  border-top: #ffafac solid 4px;
+}
+
+.line-b {
   border-bottom: #fff solid 4px;
 }
 
-.line:hover {
+.line-b:hover {
   border-bottom: #000 solid 4px;
 }
 
 .pink-box {
   border: #000 solid 4px;
-  background: #ffafac;
   padding: 0.25em 0.5em;
   display: inline-block;
+  background: none;
 }
 
 .pink-box:hover {
-  border: #000 solid 4px;
-  background: none;
+  background: #ffafac;
 }
 
 .blue-box {
   color: #000;
   border: #000 solid 4px;
-  background: #9dedf2;
   padding: 0.25em 0.5em;
   display: inline-block;
-}
-
-.blue-box:hover {
-  color: #000;
-  border: #000 solid 4px;
   background: none;
 }
 
+.blue-box:hover {
+  background: #9dedf2;
+}
+
+#contact-icon, .st0 {
+  fill: #e6e6e6;
+}
+
+#contact-icon:hover, .st0:hover {
+  fill: #000;
+}
+
+.current {
+  border-bottom: #000 solid 4px;
+}
 
 /** SUB NAVs **/
 
-.nav-sub {
-  border-bottom: #000 solid 10px;
+.rule-b {
+  border-bottom: #000 solid 8px;
 }
 
-.line-top {
-  border-top: #fff solid 4px;
+.rule-t {
+  border-top: #000 solid 8px;
 }
 
-.line-top:hover {
-  border-top: #ffafac solid 4px;
+
+
+@media only screen and (min-width: 38em) {
+
+  .logo {
+    text-align: left;
+  }
+
+  .info {
+    padding-top: 0;
+  }
+
+  .contact {
+    text-align: right;
+  }
+
 }
 
-.border-top {
-  border-top: #000 solid 10px;
+@media only screen and (min-width: 60em) {
+
+  .contact-info {
+    display: inline-block;
+  }
+
 }
 
+@media only screen and (min-width: 90em) {
+}
