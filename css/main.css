@@ -14,6 +14,8 @@ html {
   font-family: 'Rubik Mono One', sans-serif;
   font-family: 'Rubik', sans-serif;
 
+  margin-left: .65rem;
+  margin-right: .65rem;
 }
 
 *, *::before, *::after {
@@ -54,6 +56,15 @@ p {
   font-family: 'Rubik Mono One', sans-serif;
 }
 
+.rule-b {
+  border-bottom: #000 solid 8px;
+}
+
+.rule-t {
+  border-top: #000 solid 8px;
+}
+
+
 
 /** LINKS **/
 
@@ -67,7 +78,7 @@ a {
 }
 
 .line-t:hover {
-  border-top: #ffafac solid 4px;
+  border-top: #000 solid 4px;
 }
 
 .line-b {
@@ -113,19 +124,13 @@ a {
   border-bottom: #000 solid 4px;
 }
 
-/** SUB NAVs **/
-
-.rule-b {
-  border-bottom: #000 solid 8px;
-}
-
-.rule-t {
-  border-top: #000 solid 8px;
-}
-
-
 
 @media only screen and (min-width: 38em) {
+
+  html {
+    margin-left: 1.4rem;
+    margin-right: 1.4rem;
+  }
 
   .logo {
     text-align: left;
@@ -139,15 +144,36 @@ a {
     text-align: right;
   }
 
+  .work {
+    padding-left: 2.8000rem;
+    padding-right: 2.8000rem;;
+  }
+
 }
 
 @media only screen and (min-width: 60em) {
 
+  html {
+    margin-left: 6rem;
+    margin-right: 6rem;
+  }
+
   .contact-info {
     display: inline-block;
+    margin-bottom: 0;
+  }
+
+  .header {
+    margin: 0;
+  }
+
+  .work {
+    padding-left: 3.0000rem;
+    padding-right: 3.0000rem;
   }
 
 }
 
 @media only screen and (min-width: 90em) {
+
 }
