@@ -16,15 +16,18 @@
 <body>
 
   <header class="gutter pad-t">
-    {% include nav.html %}
+    {% if page.url == '/' %}{% include nav.html %}{% endif %}
+    {% if page.url == '/work/' %}{% include nav.html %}{% endif %}
+    {% if page.url == '/resume/' %}{% include nav-sub.html %}{% endif %}
   </header>
 
-  <main>
+  <main class="gutter">
     {{content}}
   </main>
 
   <footer class="gutter milli pad-t-2">
-    {% if page.url == '/work/', '/resume/', '/kinetic/', '/brew-guide/', '/brainteasers/' %}{% include footer.html %}{% endif %}
+    {% if page.url == '/work/' %}{% include footer.html %}{% endif %}
+    {% if page.url == '/resume/' %}{% include footer.html %}{% endif %}
   </footer>
 
 </body>
