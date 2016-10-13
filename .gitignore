@@ -1,10 +1,2 @@
-
-_site/index.html
-
-*.html
-
-*.css
-
-*.jpg
-
-*.ico
+_site
+.jekyll-metadata
