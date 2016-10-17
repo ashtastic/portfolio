@@ -14,8 +14,8 @@ html {
   font-family: 'Rubik Mono One', sans-serif;
   font-family: 'Rubik', sans-serif;
 
-  margin-left: .65rem;
-  margin-right: .65rem;
+  margin-left: 0.65rem;
+  margin-right: 0.65rem;
 }
 
 *, *::before, *::after {
@@ -128,11 +128,11 @@ a {
 @media only screen and (min-width: 38em) {
 
   html {
-    margin-left: 1.4rem;
-    margin-right: 1.4rem;
+    margin-left: 2.4rem;
+    margin-right: 2.4rem;
   }
 
-  .logo {
+  .x-text-left {
     text-align: left;
   }
 
@@ -140,13 +140,13 @@ a {
     padding-top: 0;
   }
 
-  .contact {
+  .x-text-right {
     text-align: right;
   }
 
-  .work {
-    padding-left: 2.8000rem;
-    padding-right: 2.8000rem;;
+  .x-gutter-2 {
+    padding-left: 1.8000rem;
+    padding-right: 1.8000rem;;
   }
 
 }
@@ -158,16 +158,11 @@ a {
     margin-right: 6rem;
   }
 
-  .contact-info {
-    display: inline-block;
-    margin-bottom: 0;
-  }
-
   .header {
     margin: 0;
   }
 
-  .work {
+  .x-gutter-2 {
     padding-left: 3.0000rem;
     padding-right: 3.0000rem;
   }

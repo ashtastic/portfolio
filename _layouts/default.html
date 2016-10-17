@@ -2,7 +2,7 @@
 <html lang="en-ca">
 <head>
   <meta charset="utf-8">
-  <title>Ash Tastic Portfolio</title>
+  <title>Ash Tastic Design Portfolio</title>
   <meta name="handheldfriendly" content="true">
   <meta name="mobileoptimized" content="240">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -15,17 +15,17 @@
 </head>
 <body>
 
-  <header class="gutter pad-t">
+  <header class="gutter pad-t push-2">
     {% if page.url == '/' %}{% include nav.html %}{% endif %}
     {% if page.url == '/work/' %}{% include nav.html %}{% endif %}
-    {% if page.url == '/resume/' %}{% include nav-sub.html %}{% endif %}
+    {% if page.url == '/resume/' %}{% include nav-hidden.html %}{% endif %}
   </header>
 
-  <main class="gutter">
+  <main class="push-2">
     {{content}}
   </main>
 
-  <footer class="gutter milli pad-t-2">
+  <footer class="gutter milli">
     {% if page.url == '/work/' %}{% include footer.html %}{% endif %}
     {% if page.url == '/resume/' %}{% include footer.html %}{% endif %}
   </footer>
