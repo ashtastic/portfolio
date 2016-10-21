@@ -1,0 +1,3 @@
+Sitemap: https://ashtastic.ca/sitemap.xml
+
+User-agent: *

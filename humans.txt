@@ -1,0 +1,20 @@
+# TEAM
+
+Designer & Developer: Ashley Murray <hello@ashtastic.ca>
+Site: https://ashtastic.ca
+Behance Portfolio: ashleymurray.myportfolio.com
+GitHub: https://github.com/ashtastic
+Location: Ottawa, Canada
+
+---
+
+# TECHNOLOGY
+
+## SOFTWARE
+
+- Sublime Text 3
+- Git + GitHub
+
+## Hosting
+
+-
