@@ -1,0 +1,31 @@
+---
+
+layout: resume
+
+---
+
+<div class="push-2 pad-b-2">
+  <div class="grid">
+    <div class="unit xs-1 s-1 m-1-2 l-1-2 xl-1-2 gutter">
+      <ul class="list-group">
+        {% for resume in site.data.skills.column-a %}
+          <li>
+            <h3 class="push-half giga text-lower">{{resume.title}}</h3>
+            <p>{{resume.meta}}</p>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="unit xs-1 s-1 m-1-2 l-1-2 xl-1-2 gutter">
+      <ul class="list-group">
+        {% for resume in site.data.skills.column-b %}
+          <li>
+            <h3 class="push-half giga text-lower">{{resume.title}}</h3>
+              <h4 class="push-half kilo">{{resume.date}}</h4>
+              <p>{{resume.meta}}</p>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>

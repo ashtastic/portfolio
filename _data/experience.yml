@@ -1,0 +1,48 @@
+column-a:
+  - position: "UX Research Facilitator"
+    date: "05.2016 – 08.2016"
+    meta: >
+      "Worked with a team to conduct extensive product and user research;
+      produced various styles of script writing;
+      setup, organize and facilitate Think Aloud style usability tests;
+      and, problem solve to solve technological and program issues during testing.
+      Testing was done on an HR management system set to replace Algonquin College's HR system in the coming year."
+    category: "experience-1"
+
+  - position: "Student Research Assistant // UI Designer"
+    date: "01.2016 – 04.2016"
+    meta: >
+      "A student research assistant and UI Designer on a contracted project with Applied Research and Innovation at Algonquin College.
+      The app was a container that holds data about the patient and their smart teeth cleaning device that the dentist could access in a database."
+    category: "experience-1"
+
+  - position: "Design Tutor"
+    date: "01.2016 – now"
+    meta: "Currently offering one–on–one assistance to students needing extra help in graphic design subjects at Algonquin College."
+    category: "experience-1"
+
+  - position: "Design Program Teaching Assistant"
+    date: "01.2016 – 04.2016"
+    meta: "Assisted students in the first year web development course at Algonquin College in the Graphic Design Program."
+    category: "experience-1"
+
+column-b:
+  - position: "Graphic Designer"
+    date: "09.2016 — now"
+    meta: "Currently designing various projects for Algonquin College’s Applied Research and Innovation Health and Wellness Centre, including UI design, poster and event design, and more."
+    category: "experience-2"
+
+  - position: "Freelance Graphic Designer"
+    date: "04.2014 – now"
+    meta: "Currently producing an number of graphic design projects for a variety of clients, such as poster design, logo design, and branding."
+    category: "experience-2"
+
+  - position: "Design Student"
+    date: "04.2014 – now"
+    meta: "Currently producing extensive projects in motion graphics, interaction design, web design, typesetting, logo design, packaging design, print design, advertising, campaigns, illustration, and photography for the Graphic Design Program at Algonquin College."
+    category: "experience-2"
+
+  - position: "Kindergarten Extended–Care Program Teacher"
+    date: "09.2012 – 09.2015"
+    meta: "Worked closely with parents, teachers, and children. Created and implemented educational and developmentally appropriate programs for children at Centretown Parents’ Cooperative Daycare."
+    category: "experience-2"

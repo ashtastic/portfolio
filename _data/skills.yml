@@ -1,0 +1,23 @@
+column-a:
+  - title: "Skills"
+    meta: |
+      "UX principals and research
+      Adobe Creative Suite : Illustrator, InDesign, After Effects, Photoshop, Lightroom
+      Microsoft Office, iWork
+      Writing
+      Child development and education
+      Strong communication skills
+      Levelheaded and takes criticism like a champ
+      Avid team player and relentless cheerleader
+      Musician and Irish fiddle player"
+
+column-b:
+  - title: "Accomplishments"
+    date: "01.2007 – 04.2007"
+    meta: |
+      "Honourable Mention in the Cinnamon Toast Award for Eastern Ontario in RGD’s 2016 Student Awards Program
+      Member of Algonquin College Graphic Design Dean’s Honour List for outstanding academic achievement (Fall 2014, Winter 2015, Fall 2015, Winter 2016)"
+
+  - title: "Volunteer"
+    date: "09.2011 – 04.2012"
+    meta: "Global Peace Education Initiative Leader for CISV Summer Camp, representing the Canadian Delegation (myself and 4 other Canadian youth) in Medellin, Colombia."
