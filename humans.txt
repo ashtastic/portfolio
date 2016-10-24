@@ -17,4 +17,4 @@ Location: Ottawa, Canada
 
 ## Hosting
 
--
+- Hover <http://hover.com>
