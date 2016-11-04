@@ -124,6 +124,10 @@ a {
   border-bottom: #000 solid 4px;
 }
 
+.current-sub {
+  border-top: #000 solid 4px;
+}
+
 /* LAYOUT */
 
 

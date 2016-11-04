@@ -26,12 +26,14 @@
     {% if page.url == '/' %}{% include nav.html %}{% endif %}
     {% if page.url == '/work/' %}{% include nav.html %}{% endif %}
     {% if page.url == '/resume/' %}{% include nav-hidden.html %}{% endif %}
+    {% if page.url == '/resume/education/' %}{% include nav-hidden.html %}{% endif %}
+    {% if page.url == '/resume/skills/' %}{% include nav-hidden.html %}{% endif %}
     {% if page.url == '/kinetic/' %}{% include nav-hidden.html %}{% endif %}
     {% if page.url == '/brew-guide/' %}{% include nav-hidden.html %}{% endif %}
     {% if page.url == '/brainteasers/' %}{% include nav-hidden.html %}{% endif %}
   </header>
 
-  <main class="push-2">
+  <main class="push">
     {{content}}
   </main>
 
@@ -39,6 +41,8 @@
     {% if page.url == '/work/' %}{% include footer.html %}{% endif %}
     {% if page.url == '/resume/' %}{% include footer.html %}{% endif %}
     {% if page.url == '/kinetic/' %}{% include footer.html %}{% endif %}
+    {% if page.url == '/resume/education/' %}{% include footer.html %}{% endif %}
+    {% if page.url == '/resume/skills/' %}{% include footer.html %}{% endif %}
     {% if page.url == '/brew-guide/' %}{% include footer.html %}{% endif %}
     {% if page.url == '/brainteasers/' %}{% include footer.html %}{% endif %}
   </footer>
