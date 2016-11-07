@@ -2,7 +2,7 @@
 <html lang="en-ca">
 <head>
   <meta charset="utf-8">
-  <title>Ashley Murray // Ash Tastic • Graphic Design Portfolio — Motion, UX, UI, Typography • Ottawa, Canada</title>
+  <title>Ashley Murray // Ash Tastic • Graphic Design Portfolio — Motion, UX, UI • Ottawa, Canada</title>
   <meta name="description" content="Ashley Murray – a graphic designer with an awesome passion for motion, ux/ui design and typography.">
   <meta name="handheldfriendly" content="true">
   <meta name="mobileoptimized" content="240">
@@ -28,23 +28,36 @@
     {% if page.url == '/resume/' %}{% include nav-hidden.html %}{% endif %}
     {% if page.url == '/resume/education/' %}{% include nav-hidden.html %}{% endif %}
     {% if page.url == '/resume/skills/' %}{% include nav-hidden.html %}{% endif %}
-    {% if page.url == '/kinetic/' %}{% include nav-hidden.html %}{% endif %}
-    {% if page.url == '/brew-guide/' %}{% include nav-hidden.html %}{% endif %}
-    {% if page.url == '/brainteasers/' %}{% include nav-hidden.html %}{% endif %}
+    {% if page.url == '/work/beastie-boys/' %}{% include nav-hidden.html %}{% endif %}
+    {% if page.url == '/work/beastie-boys/concept/' %}{% include nav-hidden.html %}{% endif %}
+    {% if page.url == '/work/beastie-boys/process/' %}{% include nav-hidden.html %}{% endif %}
+    {% if page.url == '/work/beastie-boys/final/' %}{% include nav-hidden.html %}{% endif %}
+    {% if page.url == '/work/brew-guide/' %}{% include nav-hidden.html %}{% endif %}
+    {% if page.url == '/work/brainteasers-book/' %}{% include nav-hidden.html %}{% endif %}
   </header>
 
   <main class="push">
     {{content}}
   </main>
 
-  <footer class="gutter milli">
+  <footer class="gutter milli push">
     {% if page.url == '/work/' %}{% include footer.html %}{% endif %}
     {% if page.url == '/resume/' %}{% include footer.html %}{% endif %}
     {% if page.url == '/kinetic/' %}{% include footer.html %}{% endif %}
     {% if page.url == '/resume/education/' %}{% include footer.html %}{% endif %}
     {% if page.url == '/resume/skills/' %}{% include footer.html %}{% endif %}
-    {% if page.url == '/brew-guide/' %}{% include footer.html %}{% endif %}
-    {% if page.url == '/brainteasers/' %}{% include footer.html %}{% endif %}
+    {% if page.url == '/work/beastie-boys/' %}{% include footer.html %}{% endif %}
+    {% if page.url == '/work/beastie-boys/concept/' %}{% include footer.html %}{% endif %}
+    {% if page.url == '/work/beastie-boys/process/' %}{% include footer.html %}{% endif %}
+    {% if page.url == '/work/beastie-boys/final/' %}{% include footer.html %}{% endif %}
+    {% if page.url == '/work/brew-guide/' %}{% include footer.html %}{% endif %}
+    {% if page.url == '/work/brew-guide/concept/' %}{% include footer.html %}{% endif %}
+    {% if page.url == '/work/brew-guide/process/' %}{% include footer.html %}{% endif %}
+    {% if page.url == '/work/brew-guide/final/' %}{% include footer.html %}{% endif %}
+    {% if page.url == '/work/brainteasers-book/' %}{% include footer.html %}{% endif %}
+    {% if page.url == '/work/brainteasers-book/concept/' %}{% include footer.html %}{% endif %}
+    {% if page.url == '/work/brainteasers-book/process/' %}{% include footer.html %}{% endif %}
+    {% if page.url == '/work/brainteasers-book/final/' %}{% include footer.html %}{% endif %}
   </footer>
 
 </body>
