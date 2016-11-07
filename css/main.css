@@ -13,9 +13,12 @@ html {
 
   font-family: 'Rubik Mono One', sans-serif;
   font-family: 'Rubik', sans-serif;
+  color: #191815;
 
   margin-left: 0.65rem;
   margin-right: 0.65rem;
+
+  background-color: #fff;
 }
 
 *, *::before, *::after {
@@ -41,7 +44,7 @@ p {
 }
 
 .pink {
-  color: #ffafac;
+  color: #fe7ca1;
 }
 
 .yellow {
@@ -50,6 +53,10 @@ p {
 
 .light {
   color: #b3b3b3;
+}
+
+.logo {
+  height: 32px;
 }
 
 .mono {
@@ -112,12 +119,14 @@ a {
   background: #9dedf2;
 }
 
-#contact-icon, .st0 {
+#contact-icon, .st0, .contact-icon {
   fill: #e6e6e6;
+  color: #e6e6e6;
 }
 
-#contact-icon:hover, .st0:hover {
+#contact-icon:hover, .st0:hover, .contact-icon:hover {
   fill: #000;
+  color: #000;
 }
 
 .current {
@@ -161,6 +170,10 @@ a {
   .x-gutter-2 {
     padding-left: 1.8000rem;
     padding-right: 1.8000rem;;
+  }
+
+  .x-right {
+    float: right;
   }
 
 }
