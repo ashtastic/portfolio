@@ -1,17 +1,19 @@
 ---
-layout: default
+layout: default-hidden
 ---
+
+{% assign portfolio = site.data[page.data] %}
 
 <div class="gutter">
   <nav class="rule-b">
     <ul class="nav push-half list-group-inline">
-      <li><a class="unit-xs-1 unit-s-1 unit-m-1 unit-l-1 unit-xl-1 line-t strong text-lower" href="{{site.baseurl}}/work/beastie-boys/">Concept</a></li>
-      <li class="gutter-2"><a class="unit-xs-1 unit-s-1 unit-m-1 unit-l-1 unit-xl-1 line-t strong text-lower" href="{{site.baseurl}}/work/beastie-boys/process/">Process</a></li>
-      <li><a class="unit-xs-1 unit-s-1 unit-m-1 unit-l-1 unit-xl-1 line-t strong text-lower" href="{{site.baseurl}}/work/beastie-boys/final/">Final</a></li>
+      <li><a class="unit-xs-1 unit-s-1 unit-m-1 unit-l-1 unit-xl-1 line-t strong text-lower" href="{{site.baseurl}}{{portfolio.site-concept}}">Concept</a></li>
+      <li class="gutter-2"><a class="unit-xs-1 unit-s-1 unit-m-1 unit-l-1 unit-xl-1 line-t strong text-lower" href="{{site.baseurl}}{{portfolio.site-process}}">Process</a></li>
+      <li><a class="unit-xs-1 unit-s-1 unit-m-1 unit-l-1 unit-xl-1 line-t strong text-lower" href="{{site.baseurl}}{{portfolio.site-final}}">Final</a></li>
     </ul>
   </nav>
 </div>
 
-<h2 class="gutter pad-top-quarter mono milli">{{site.data.cases.case-title}}</h2>
+<h2 class="gutter pad-top-quarter mono milli">{{portfolio.case-title}}</h2>
 
 {{content}}

@@ -1,5 +1,6 @@
 case-title: "Beastie Boys in Kinetic Type"
 
+site-concept: "/work/beastie-boys/"
 concept:
   title: "The concept"
   detail: "“Don’t Play No Game That I Can’t Win” by Beastie Boys is a hip hop reggae golden nugget that came out on their Hot Sauce Commitee Part 2 album in 2011. In its typical Beastie Boy fashion, it's a guaranteed head bouncer."
@@ -19,6 +20,7 @@ concept:
     image: "beastie-boys-c3.jpg"
     alt: "Gif of bouncing animation."
 
+site-process: "/work/beastie-boys/process/"
 process:
   title: "The process"
   image: "beastie-boys-p.jpg"
@@ -47,6 +49,7 @@ technique:
     title: "Bouncing animation"
     detail: "I animated the reggae beat with a bouncing null object by manipulating the curves and strategically placing the keyframes until I got it exactly right. I then parented everything to it to carry that head bouncing feel through to every object and movement, as well as to ensure that everything was in time with the music no matter when they flew in and out of the screen."
 
+site-final: "/work/beastie-boys/final/"
 final:
   title: "The final result"
   video:

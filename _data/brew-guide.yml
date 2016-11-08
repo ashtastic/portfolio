@@ -1,0 +1,59 @@
+case-title: "The Ottawa Brew Guide"
+
+site-concept: "/work/brew-guide/"
+concept:
+  title: "The Concept & Branding"
+  detail: |
+    This app is a communication tool between Ottawa breweries and their customers to notify them about new beers and locations to buy them, as well as inform consumers on all the Ottawa breweries and the beers they produce.
+    This app is meant to be Ottawa specific, targeting the locals in this exponentially growing craft brewery scene in Ottawa, as well as craft-hungry tourists.
+    Right now, it’s hard to find exactly what is available from specific brewery and where to buy it. This app looks to satisfy this need, making access to information easier, thereby increasing sales and consumption for the breweries and their retailers as a result.
+  c1:
+    title: "Logo"
+    detail: "The logo brings in the retro colours and fonts with a form and style and subtly resembles a beer label. The 613 creatively represents Ottawa, which also leaves for possibly of expansion by replacing the 613 with the city's own area code but still keep the branding."
+    image: "brew-guide-c1.jpg"
+    alt: "Image displaying the custom Brew Guide logo."
+  c2:
+    title: "Colours"
+    detail: "The app's colours are a mixture of browns and yellows derived from a retro–style look and feel. The colours are warm, but delicious, emulating the array of colours and opaqueness found in craft beer."
+    image: "brew-guide-c2.jpg"
+    alt: "Brew Guide branding colours."
+  c3:
+    title: "Typography"
+    detail: "Rockwell and Arvo are both slap serifs that are heavy, retro, mature but fun —perfectly capturing the essence of the app's brand. To contrast with it and ensure readability, Catamaran was chosen for its sharp edges and complimentary features."
+    image: "brew-guide-c3.jpg"
+    alt: "Sample of Apple's system font and Bungee."
+
+site-process: "/work/brew-guide/process/"
+process:
+  title: "The process"
+  image: "brew-guide-p.jpg"
+  alt: "Image of story board."
+  p1:
+    title: "Research"
+    detail: "Extensively researched all the competitors. None which were as focused on one geological area. Most acted as a personal inventory of the beers you try."
+  p2:
+    title: "Development"
+    detail: "Defined the features and sketched out the app's flow and information architecture, as well as the app's interface design."
+  p3:
+    title: "User Interviews"
+    detail: "Conducted user interviews around campus to identify problem areas surrounding accessing information the app would be providing. Discovered that consumers need input from others, clear visual cues and detailed descriptions to try something new."
+
+technique:
+  title: "The technique"
+  image: "brew-guide-t.jpg"
+  alt: "Shot of paper prototype and handmade iPhone."
+  t1:
+    title: "Paper Prototype"
+    detail: "I crafted long sheets of paper, where I drew screens on them, and made an iPhone out of mayfair to test the features I was hoping to design for the app. Discovered a few problems with navigation through the app and the usefulness of the newsfeed."
+  t2:
+    title: "Low Fidelity Prototype"
+    detail: "Armed with illustrator and the iOS toolkit, I pieced together a bare-bones version of the paper prototype, with the adapted changes. The screens were fed through and animated in InVision and tested a second time, with very minor adjustments."
+  t3:
+    title: "High Fidelity Prototype"
+    detail: "Adjustments from the second round of testing were made and a full colour and custom icon rendition of the app's UI was designed using Illustrator and brought into InVision for final demonstration and presentation."
+
+site-final: "/work/brew-guide/final/"
+final:
+  title: "The final result"
+  video:
+  url: "https://vimeo.com/156213452"
