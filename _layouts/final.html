@@ -1,0 +1,13 @@
+---
+layout: case-study
+---
+
+{% assign portfolio = site.data[page.data] %}
+
+<div class="push-2 pad-b-2 gutter-half">
+  <h3 class="text-lower">{{portfolio.final.title}}</h3>
+  <div class="push">
+    <img class="img-flex" src="images/placeholder-1182x551.jpg" alt="Video of Beastie Boys in Kinetic Type.">
+  </div>
+  <a class="blue-box" href="{{site.baseurl}}/work/{{portfolio.final.url}}">{{portfolio.final.url}}</a>
+</div>

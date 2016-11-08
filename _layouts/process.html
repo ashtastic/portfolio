@@ -1,0 +1,47 @@
+---
+layout: case-study
+---
+
+{% assign portfolio = site.data[page.data] %}
+
+<div class="island-half">
+  <div>
+    <h3 class="gutter-half text-lower">{{portfolio.process.title}}</h3>
+    <div class="grid">
+      <div class="unit xs-1 s-1 m-1-2 l-1-2 xl-1-2 gutter-half push-half">
+        <h4 class="push-half kilo text-lower">{{portfolio.process.p1.title}}</h4>
+        <p>{{portfolio.process.p1.detail}}</p>
+        <h4 class="push-half kilo text-lower">{{portfolio.process.p2.title}}</h4>
+        <p>{{portfolio.process.p2.detail}}</p>
+      </div>
+      <div class="unit xs-1 s-1 m-1-2 l-1-2 xl-1-2 gutter-half push-half">
+        <h4 class="push-half kilo text-lower">{{portfolio.process.p3.title}}</h4>
+        <p>{{portfolio.process.p3.detail}}</p>
+      </div>
+    </div>
+    <div class="push island-half">
+      <img class="img-flex"src="{{site.baseurl}}/images/{{portfolio.process.image}}" alt="{{portfolio.process.alt}}">
+    </div>
+  </div>
+
+  <div class="grid pad-t push-2 pad-b-2">
+    <div class="unit xs-1 s-1 m-1 l-1 xl-2-3 unit-xl-push-2-3 push island-half">
+      <img class="img-flex" src="{{site.baseurl}}/images/{{portfolio.technique.image}}" alt="{{portfolio.technique.alt}}">
+    </div>
+    <div class="unit xs-1 s-1 m-1 l-1 xl-1-3">
+      <h3 class="gutter-half text-lower">{{portfolio.technique.title}}</h3>
+      <div class="grid">
+        <div class="unit xs-1 s-1 m-1-2 l-1-2 xl-1 gutter-half push-half">
+          <h4 class="push-half kilo text-lower">{{portfolio.technique.t1.title}}</h4>
+          <p>{{portfolio.technique.t1.detail}}</p>
+          <h4 class="push-half kilo text-lower">{{portfolio.technique.t2.title}}</h4>
+          <p>{{portfolio.technique.t2.detail}}</p>
+        </div>
+        <div class="unit xs-1 s-1 m-1-2 l-1-2 xl-1 gutter-half push-half">
+          <h4 class="push-half kilo text-lower">{{portfolio.technique.t3.title}}</h4>
+          <p>{{portfolio.technique.t3.detail}}</p>
+        </div>
+      </div>
+    </div>
+
+</div>
