@@ -3,23 +3,20 @@ case-title: "The Ottawa Brew Guide"
 site-concept: "/work/brew-guide/"
 concept:
   title: "The Concept & Branding"
-  detail: |
-    This app is a communication tool between Ottawa breweries and their customers to notify them about new beers and locations to buy them, as well as inform consumers on all the Ottawa breweries and the beers they produce.
-    This app is meant to be Ottawa specific, targeting the locals in this exponentially growing craft brewery scene in Ottawa, as well as craft-hungry tourists.
-    Right now, it’s hard to find exactly what is available from specific brewery and where to buy it. This app looks to satisfy this need, making access to information easier, thereby increasing sales and consumption for the breweries and their retailers as a result.
+  detail: "Consumers in the Ottawa area have to search in a number of disjointed areas to get information on the craft beer in Ottawa and where to but it. Therefore, the Ottawa Brew Guide provides access to visual, descriptive and social information on the beer Ottawa craft breweries produce —all in one place."
   c1:
     title: "Logo"
-    detail: "The logo brings in the retro colours and fonts with a form and style and subtly resembles a beer label. The 613 creatively represents Ottawa, which also leaves for possibly of expansion by replacing the 613 with the city's own area code but still keep the branding."
+    detail: "The imagery in the logo is the top of a growler. This is what craft beer in Ottawa is typically sold in when purchasing it directly from the brewery."
     image: "brew-guide-c1.jpg"
     alt: "Image displaying the custom Brew Guide logo."
   c2:
     title: "Colours"
-    detail: "The app's colours are a mixture of browns and yellows derived from a retro–style look and feel. The colours are warm, but delicious, emulating the array of colours and opaqueness found in craft beer."
+    detail: "The brand's colours are a mixture of browns and yellows derived from a retro–style look and feel. The colours are warm, but delicious, emulating the array of colours and opaqueness found in craft beer."
     image: "brew-guide-c2.jpg"
     alt: "Brew Guide branding colours."
   c3:
     title: "Typography"
-    detail: "Rockwell and Arvo are both slap serifs that are heavy, retro, mature but fun —perfectly capturing the essence of the app's brand. To contrast with it and ensure readability, Catamaran was chosen for its sharp edges and complimentary features."
+    detail: "Uses IOS system font for clarity and readability, since it is a content–heavy app. Stylized menu headers carry the retro feel, but digitized stability of a search engine —your own personal brew–expert robot."
     image: "brew-guide-c3.jpg"
     alt: "Sample of Apple's system font and Bungee."
 
@@ -30,13 +27,13 @@ process:
   alt: "Image of story board."
   p1:
     title: "Research"
-    detail: "Extensively researched all the competitors. None which were as focused on one geological area. Most acted as a personal inventory of the beers you try."
+    detail: "Extensively researched all the competitors, comparing positive and negative reviews, and the market for such an app. Most of the competitors offer clustered interfaces as a social inventory of the beers you try worldwide. None exist as a local tourism focus. Also, the craft brewery scene in Ottawa is a booming market that looks to continue growing, creating a competitive challenge for Ottawa-based breweries."
   p2:
-    title: "Development"
-    detail: "Defined the features and sketched out the app's flow and information architecture, as well as the app's interface design."
-  p3:
     title: "User Interviews"
-    detail: "Conducted user interviews around campus to identify problem areas surrounding accessing information the app would be providing. Discovered that consumers need input from others, clear visual cues and detailed descriptions to try something new."
+    detail: "Craft beer lovers make a vast target market. As a result, I walked around and asked random people what information they find most important when deciding and looking at consumable products. The result: users look for visual cues, descriptions, and the opinions of others."
+  p3:
+    title: "Development"
+    detail: "Began with post-its, defined and illustrated a storyboard and functionality, defined a problem and app definition statement, and sketched the app flow, to end up with a testable prototype."
 
 technique:
   title: "The technique"
@@ -44,13 +41,13 @@ technique:
   alt: "Shot of paper prototype and handmade iPhone."
   t1:
     title: "Paper Prototype"
-    detail: "I crafted long sheets of paper, where I drew screens on them, and made an iPhone out of mayfair to test the features I was hoping to design for the app. Discovered a few problems with navigation through the app and the usefulness of the newsfeed."
+    detail: "Drew the screens on long sheets of paper, and ran users through tasks, manually pulling the sheets through an iPhone made out of mayfair. Discovered a few problems with navigation and the usefulness of the newsfeed."
   t2:
     title: "Low Fidelity Prototype"
-    detail: "Armed with illustrator and the iOS toolkit, I pieced together a bare-bones version of the paper prototype, with the adapted changes. The screens were fed through and animated in InVision and tested a second time, with very minor adjustments."
+    detail: "Pieced together a bare-bones version of the paper prototype, with the adapted changes, using the iOS toolkit. The screens were fed through and animated in InVision and tested a second time. Discovered a few aesthetic problems, such as font size and spacing."
   t3:
     title: "High Fidelity Prototype"
-    detail: "Adjustments from the second round of testing were made and a full colour and custom icon rendition of the app's UI was designed using Illustrator and brought into InVision for final demonstration and presentation."
+    detail: "Adjustments from the second round of testing were made. Branding, full colour, and custom icon rendition of the app's UI was designed using Illustrator."
 
 site-final: "/work/brew-guide/final/"
 final:

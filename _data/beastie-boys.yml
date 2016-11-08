@@ -3,7 +3,7 @@ case-title: "Beastie Boys in Kinetic Type"
 site-concept: "/work/beastie-boys/"
 concept:
   title: "The concept"
-  detail: "“Don’t Play No Game That I Can’t Win” by Beastie Boys is a hip hop reggae golden nugget that came out on their Hot Sauce Commitee Part 2 album in 2011. In its typical Beastie Boy fashion, it's a guaranteed head bouncer."
+  detail: "“Don’t Play No Game That I Can’t Win” by Beastie Boys is a hip hop reggae golden nugget that came out on their Hot Sauce Commitee Part 2 album in 2011. In its typical Beastie Boy fashion, it's a guaranteed head bouncer. The goal was to capture this as a motion graphic kinetic type piece."
   c1:
     title: "Typography"
     detail: "Used Futura Std ExtraBold to hit hard with the intonation but still be playful. The intensity of the lyrics don’t change, so neither does the weight and colour of the type."
@@ -11,7 +11,7 @@ concept:
     alt: "Image displaying Futura Std ExtraBold."
   c2:
     title: "Colours"
-    detail: "The solid colours are pulled directly from the Hot Sauce Commitee Part 2 album cover. A subtle tie to the source."
+    detail: "The colours come directly from the Hot Sauce Commitee Part 2 album cover. A subtle tie to the source."
     image: "beastie-boys-c2.jpg"
     alt: "Image showing colours from the Hot Sauce Commitee Part 2 album cover."
   c3:
@@ -24,16 +24,16 @@ site-process: "/work/beastie-boys/process/"
 process:
   title: "The process"
   image: "beastie-boys-p.jpg"
-  alt: "Image of story board."
+  alt: "Image of story board rough."
   p1:
     title: "Song choice"
-    detail: "Isolated my favourite part of the song, and listened to it a million times, flowing my arms and hands in and out to feel the movement of the type."
+    detail: "Isolated the punchiest part of the song, and listened to it a million times, flowing my arms and hands in and out to feel the movement of the type."
   p2:
     title: "Storyboard"
     detail: "Drew a storyboard with flowing arrows and words as I listened to the song another million times."
   p3:
     title: "Build"
-    detail: "I figured out the actual timing of the music and then began to build in After Effects. The timing effects every object in the piece, so it needed to be tight."
+    detail: "Began to build in After Effects, after figuring out the actual timing of the music. The timing effects every object in the piece, so it needed to be tight."
 
 technique:
   title: "The technique"
@@ -41,13 +41,13 @@ technique:
   alt: "Screen shot of workspace in After Effects."
   t1:
     title: "Musical timing"
-    detail: "Once I got the timing down, I set keyframes so the background changed colours like a metronome to the music. This set the pace and gave a strong back beat for the rest of the piece."
+    detail: "Defined timing and set keyframes so the background changed colours like a metronome to the music. This set the pace and gave a strong back beat for the rest of the piece."
   t2:
     title: "Track matte"
-    detail: "Beastie Boys rap with a lot of punch and intonation, so I used track mattes to hide the extra bold type and flowing the words in strong, dramatic and heavy —paying close attention to illustrate the intonation of each lyric."
+    detail: "Used track mattes to hide the extra bold type and heavy, dramatic movements —paying close attention to illustrate the intonation of each lyric."
   t3:
     title: "Bouncing animation"
-    detail: "I animated the reggae beat with a bouncing null object by manipulating the curves and strategically placing the keyframes until I got it exactly right. I then parented everything to it to carry that head bouncing feel through to every object and movement, as well as to ensure that everything was in time with the music no matter when they flew in and out of the screen."
+    detail: "Animated the reggae beat with a bouncing null object by manipulating the curves and strategically placing the keyframes until I got it exactly right. Then, parented everything to it to carry that head bouncing feel through to every object and movement, as well as to ensure that everything was in time with the music no matter when they flew in and out of the screen."
 
 site-final: "/work/beastie-boys/final/"
 final:
