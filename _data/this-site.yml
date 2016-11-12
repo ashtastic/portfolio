@@ -1,29 +1,29 @@
-case-title: "Book of Typographical Brainteasers"
+case-title: "Mitosis in Parallax"
 
-site-concept: "/work/brainteasers-book/"
+site-concept: "/work/this-site/"
 concept:
   title: "The Concept"
-  detail: "Entirely designed and built by hand. The book is a compilation of brainteasers that are visual, typographical representations of terms aimed at offering graphic designers a way to stretch their mind and overcome creative–block. Each piece is drawn to be initially ambiguous in order to force the viewer to ignore the obvious and think abstractly, thus enforcing creativity. The theme of the design targets how graphic designers often face dramatic extremes that are both abstract and strict by balancing things like strict grids with lax content."
+  detail: "A parallax animation of mitosis —nuclear division that produces two identical cells. Special thanks to Chilled Cow – the Chill Instrumental Hiphop & JazzHop Mix (Part 2/5) for the audio."
   c1:
-    title: "Colours"
-    detail: "Colours are cyan, magenta, yellow and black to target their familiar presence in a graphic design's wold of print. The craft paper texture  raw texture of craft paper to offer relaxed casualness and rough sketchbook culture to the activity surrounding the book."
-    image: "brainteaser-book-c1.jpg"
-    alt: "Image of cyan, magenta, yellow, black, and a sample of craft paper texture."
+    title: "Goopy animation"
+    detail: "The animation was created to give a thick gelatinous liquid feel to the cells, illustrating how cell division tends to look like, especially with the subtle wiggling like jello."
+    image: this-site-c1.jpg"
+    alt: "Gif of cell wiggling and dividing."
   c2:
-    title: "Typography"
-    detail: "ITC American Typewriter was chosen for its balance between the casual, seriousness and playful."
-    image: "brainteaser-book-c2.jpg"
-    alt: "Sample of ITC American Typewriter."
+    title: "Colours and typography"
+    detail: "The pinkish fleshy colours were chosen to produce the look and feel of inside the body. "
+    image: this-site-c2.jpg"
+    alt: "Image of one of the cells on the dark pink background."
   c3:
     title: "Grids"
     detail: "Every element was laid out to a strict grid. For example, each typographical illustration was drawn by hand on a grid so to create unity among the individual pieces and the overall type layout, then brought into illustrator and formatted there."
-    image: "brainteaser-book-c3.jpg"
+    image: this-site-c3.jpg"
     alt: "Photo of the grid used to layout out the content of the book."
 
-site-process: "/work/brainteasers-book/process/"
+site-process: "/work/this-site/process/"
 process:
   title: "The process"
-  image: "brainteasers-book-p.jpg"
+  image: "this-site-p.jpg"
   alt: "Photo of drawing one of the pieces."
   p1:
     title: "Research"
@@ -37,11 +37,11 @@ process:
 
 technique:
   title: "The technique"
-  image: "brainteasers-book-t.jpg"
+  image: "this-site-t.jpg"
   alt: "Gif of assembling the book."
   t1:
     title: "Strict Grid"
-    detail: "The layout of the book was set ahead of time in InDesign so that the proper grid could be printed and used to design the typographical illustrations. Each piece is different but they all have an overall coherency because of the grid. This also helped when laying out the flap door and content pages together."
+    detail: "The layout of the book was set ahead of time in InDesign so that the proper grid could be printed and used to design the typographical illustrations. Each piece is different but they all have an overall coherency because of the grid. This also helped when laying out the flapdoor and content pages together."
   t2:
     title: "Crafty Assembly"
     detail: "I printed the pages with a professional printer to get high quality colours. Each page is four pages glued together: 2 different coloured content pages each covered with a kraft paper, flap door page. The coloured pages were in sequence of CMYK as you move through the book. Then these pages were hole punched and the metal rings were put through. The metal rings play along with the playful but mature balance of the book's theme."
@@ -49,7 +49,7 @@ technique:
     title: "Humour"
     detail: "I'm a strong believer in that humour can lighten up any mood and relieve stress. Stress is often the main culprit for experiencing creative–block, therefore the content in this book looks to engage the reader through humour by making fun of them for having to check the answer or giving them a fun fact. It lightens the mood of the book, making it fun despite its purpose for helping graphic designers to get back on track."
 
-site-final: "/work/brainteasers-book/final/"
+site-final: "/work/this-site/final/"
 final:
   title: "The final result"
   video:
