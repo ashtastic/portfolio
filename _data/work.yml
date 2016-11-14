@@ -10,7 +10,7 @@
   subtitle: "UX//UI • Motion"
   meta: "Designed the material design interface and animated the interaction of the app, Check. Check is a fictitious IOT app the displays information collected from your car regarding fluid levels and maintenance schedules to empower car owners."
   link: "See case study"
-  url: "portfolio/work/check/"
+  url: "/work/check/"
   alt: "Check case study cover image."
   image: "check.jpg"
 
@@ -18,7 +18,7 @@
   subtitle: "UX//UI • Branding"
   meta: "Designed and built everything from scratch. This portfolio website was built to be a portfolio piece on its own with careful attention to application of UX principals, responsive design, consistent look and feel, and creation and management of written content."
   link: "See case study"
-  url: "portfolio/work/this-site/"
+  url: "/work/this-site/"
   alt: "This portfolio site case study cover image."
   image: "this-site.jpg"
 
@@ -26,7 +26,7 @@
   subtitle: "Motion • Typography"
   meta: "Don’t Play No Game That I Can’t Win by Beastie Boys. This piece uses one thick typeface to depict the punchy wordplay, and a colour scheme taken directly from the album cover. This piece received an Honourable Mention in the Cinnamon Toast Award for Eastern Ontario in RGD’s 2016 Student Awards Program."
   link: "See case study"
-  url: "portfolio/work/beastie-boys/"
+  url: "/work/beastie-boys/"
   alt: "Beastie Boys in Kinetic Type case study cover image"
   image: "beastie-boys.jpg"
 
@@ -34,6 +34,6 @@
   subtitle: "UX//UI • Branding"
   meta: "The purpose of the app is to create a direct link of communication between Ottawa breweries and their consumers in Ottawa. Features include notifications when a new beer is on tap and when retail and service information is updated. Also, Breweries update an inventory, organized by tags, that users can access to read detailed beer descriptions and locations of where to purchase the beer."
   link: "See case study"
-  url: "portfolio/work/brew-guide/"
+  url: "/work/brew-guide/"
   alt: "Ottawa Brew Guide case study cover image"
   image: "brew-guide.jpg"
