@@ -1,56 +1,55 @@
-case-title: "Mitosis in Parallax"
+case-title: "Check & its animated interaction"
 
 site-concept: "/work/check/"
 concept:
   title: "The Concept"
-  detail: "A parallax animation of mitosis —nuclear division that produces two identical cells. Special thanks to Chilled Cow – the Chill Instrumental Hiphop & JazzHop Mix (Part 2/5) for the audio."
+  detail: "I like challenging myself with topics I know nothing about. Cars are a great example because, not only do I not own one, but I am completely clueless when it comes to how they work. This unknown is what attracted me to the app's proposal, and I felt my lack of knowledge would offer a resourceful level of empathy towards the target users."
   c1:
-    title: "Goopy animation"
-    detail: "The animation was created to give a thick gelatinous liquid feel to the cells, illustrating how cell division tends to look like, especially with the subtle wiggling like jello."
+    title: "Internet of Things"
+    detail: "This app displays fluid level information from cars. It looks to empower car owners by increasing their understanding of their vehicle. Therefore, I needed to design a simple interface in order to lighten the burden associated with understanding car maintenance."
     image: check-c1.jpg"
-    alt: "Gif of cell wiggling and dividing."
+    alt: "Image of one of the widgets from the main screen."
   c2:
-    title: "Colours and typography"
-    detail: "The pinkish fleshy colours were chosen to produce the look and feel of inside the body. "
+    title: "The mantra"
+    detail: "Although using your phone while driving is an enormous safety risk, it was the mantra used for designing and ensuring the simplest navigation and access to information. The user should be able to check the status of their car as quickly and directly as possible."
     image: check-c2.jpg"
-    alt: "Image of one of the cells on the dark pink background."
+    alt: "Image of the gas profile screen."
   c3:
-    title: "Grids"
-    detail: "Every element was laid out to a strict grid. For example, each typographical illustration was drawn by hand on a grid so to create unity among the individual pieces and the overall type layout, then brought into illustrator and formatted there."
+    title: "Material Design"
+    detail: "I brought my interface design to life using entirely material design principals and elements in After Effects."
     image: check-c3.jpg"
-    alt: "Photo of the grid used to layout out the content of the book."
+    alt: "Image of add a car screen."
 
 site-process: "/work/check/process/"
 process:
   title: "The process"
   image: "check-p.jpg"
-  alt: "Photo of drawing one of the pieces."
+  alt: "Photo of app flow and rough sketches."
   p1:
-    title: "Research"
-    detail: "Researched as many graphic design terms I could find as well as looked at generic visual word teasers for inspiration."
+    title: "Deciphering the needs"
+    detail: "I was provided the first stages of the project. This outline three main personas: students, service drivers and families. I went through the information and found the app needs to have the ability to monitor multiple cars, have a dark interface to limit distraction, have direct and short navigation, and mimic the car environment."
   p2:
-    title: "Graphic Design Terms"
-    detail: "Selected a few graphic design terms I could visualize as a pun and drew them out. This allowed me to weed out the weaker pieces and have a strong selection for the book."
+    title: "Necessary UX principals"
+    detail: "I isolated the necessary UX principals, such as: a simple and clean interface for efficient access to information, graph and visual heavy to ease understanding, and a visual alert system to explicitly decipher between elements that are healthy and those that need your attention."
   p3:
-    title: "Build"
-    detail: "Once the hand work was done, everything was laid out in InDesign, traced and coloured in Illustrator, and cut, glued, whole punched, and assembled by hand."
+    title: "Design and Animation"
+    detail: "I defined a solid, simple flow of how the visual elements, such as the graphs, would be displayed on the screen. I then designed the screens in Illustrator, isolated them, and put animated elements on separate layers. Once finished, I imported the screens to After Effects and applied consistent, carefully timed transitions across the screens to make a coherent overall experience."
 
 technique:
   title: "The technique"
   image: "check-t.jpg"
-  alt: "Gif of assembling the book."
+  alt: "Image of the all the screens."
   t1:
-    title: "Strict Grid"
-    detail: "The layout of the book was set ahead of time in InDesign so that the proper grid could be printed and used to design the typographical illustrations. Each piece is different but they all have an overall coherency because of the grid. This also helped when laying out the flapdoor and content pages together."
+    title: "Interface Design"
+    detail: "Using the the material design icons, sticker sheets, and whiteframes, I pieced together system and custom elements to make up the UI."
   t2:
-    title: "Crafty Assembly"
-    detail: "I printed the pages with a professional printer to get high quality colours. Each page is four pages glued together: 2 different coloured content pages each covered with a kraft paper, flap door page. The coloured pages were in sequence of CMYK as you move through the book. Then these pages were hole punched and the metal rings were put through. The metal rings play along with the playful but mature balance of the book's theme."
+    title: "Iconography and graphs"
+    detail: "I designed the custom icons by first piecing together aspects of other icons to ensure coherent material design but still look as close to traditional dashboard icons as possible. The graphs all have consistent line work that fills up space like a liquid. This was animated in After Effects using the stroke effect and masks."
   t3:
-    title: "Humour"
-    detail: "I'm a strong believer in that humour can lighten up any mood and relieve stress. Stress is often the main culprit for experiencing creative–block, therefore the content in this book looks to engage the reader through humour by making fun of them for having to check the answer or giving them a fun fact. It lightens the mood of the book, making it fun despite its purpose for helping graphic designers to get back on track."
+    title: "Animated Interaction"
+    detail: "Strategically applied movement to the screens to reflect staggered transitions and entrances, side swipe movements, and the natural, non-distracting, but pleasant, appearance of elements."
 
 site-final: "/work/check/final/"
 final:
   title: "The final result"
-  video:
-  url: "https://vimeo.com/156213452"
+  result: <div class="push"><div class="embed-container push"><iframe src="https://player.vimeo.com/video/190578928" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><a class="blue-box" href="https://vimeo.com/188666897">https://vimeo.com/188666897</a>

@@ -1,56 +1,55 @@
-case-title: "Mitosis in Parallax"
+case-title: "This Portfolio Site"
 
 site-concept: "/work/this-site/"
 concept:
-  title: "The Concept"
-  detail: "A parallax animation of mitosis —nuclear division that produces two identical cells. Special thanks to Chilled Cow – the Chill Instrumental Hiphop & JazzHop Mix (Part 2/5) for the audio."
+  title: "The Concept & Branding"
+  detail:
   c1:
-    title: "Goopy animation"
-    detail: "The animation was created to give a thick gelatinous liquid feel to the cells, illustrating how cell division tends to look like, especially with the subtle wiggling like jello."
+    title: "Branding"
+    detail: "My brand is casual, stable and approachable maturity that dances on the border of a lack of seriousness. I like my work and ethic to speak for itself, so my brand is developed to be support for the work I show. You'll see simple, high contrast, rounded sans serif typography with hidden pink and blue hovers, lots of white space, and supporting elements like borders and rules to organize and display content."
     image: this-site-c1.jpg"
-    alt: "Gif of cell wiggling and dividing."
+    alt: "Image of the moodboard."
   c2:
-    title: "Colours and typography"
-    detail: "The pinkish fleshy colours were chosen to produce the look and feel of inside the body. "
+    title: "Typography"
+    detail: "My focus is on the screen. Therefore, my brand's font is a web font called Rubik and Rubik Mono from the GoogleFonts collection. It's a generous font with 10 styles, with the Rubik Mono being its stylized variation. This typeface borders the maturity yet playful balance that perfectly represents my look and feel. I want my site to be readable, but still have strong, optimistic personality. Rubik does the job perfectly."
     image: this-site-c2.jpg"
-    alt: "Image of one of the cells on the dark pink background."
+    alt: "Sample of Rubik and Rubik Mono."
   c3:
-    title: "Grids"
-    detail: "Every element was laid out to a strict grid. For example, each typographical illustration was drawn by hand on a grid so to create unity among the individual pieces and the overall type layout, then brought into illustrator and formatted there."
+    title: "UX Focus"
+    detail: "Built to be a portfolio piece on its own, this site is meant to present as an example of good use of UX principals, as well as a product of challenging my skills in code. For example, because I wanted this site to be focused on case studies, it would be content heavy and thus challenges the use of simple navigation. I sketched multiple layouts, and ended with a double navigation with smart labeling. This prevents users from getting lost and lets them easily get to where they want without having to scroll needlessly."
     image: this-site-c3.jpg"
-    alt: "Photo of the grid used to layout out the content of the book."
+    alt: "Image of the letters UX."
 
 site-process: "/work/this-site/process/"
 process:
   title: "The process"
   image: "this-site-p.jpg"
-  alt: "Photo of drawing one of the pieces."
+  alt: "Photo of the wireframes."
   p1:
-    title: "Research"
-    detail: "Researched as many graphic design terms I could find as well as looked at generic visual word teasers for inspiration."
+    title: "Developed from the brand"
+    detail: "After extensive self reflection and deciding the direction I want to take in graphic design, it was an easy decision to focus on motion and UX/UI design. As a result, my portfolio website is a clean, simple interface, with white space, visual consistency, and the use of rules to separate content."
   p2:
-    title: "Graphic Design Terms"
-    detail: "Selected a few graphic design terms I could visualize as a pun and drew them out. This allowed me to weed out the weaker pieces and have a strong selection for the book."
+    title: "Sketched and Wireframed"
+    detail: "I went through tonnes of sketches. I actually originally started out with a dancing robot. However, things changed after focus on my brand and more sketching. I eventually moved onto Illustrator and designed mock-ups and wireframes. Through these I defined my type, where to put elements, and consistent user conscious layouts across devices."
   p3:
-    title: "Build"
-    detail: "Once the hand work was done, everything was laid out in InDesign, traced and coloured in Illustrator, and cut, glued, whole punched, and assembled by hand."
+    title: "Coded"
+    detail: "This site is coded using Jekyll, HTML5 and JavaScript. All pages are organized in the perfect balance where adding portfolio pieces relies solely on the effort of writing the content and collecting the visuals."
 
 technique:
   title: "The technique"
   image: "this-site-t.jpg"
-  alt: "Gif of assembling the book."
+  alt: "Image of the Sublime window."
   t1:
-    title: "Strict Grid"
-    detail: "The layout of the book was set ahead of time in InDesign so that the proper grid could be printed and used to design the typographical illustrations. Each piece is different but they all have an overall coherency because of the grid. This also helped when laying out the flapdoor and content pages together."
+    title: "CSS Systems"
+    detail: "I used previously developed type, column, modular, and grid systems to create a consistent layout across all devices and pages. These systems have type dependent spacing, and controlled column and grid organization."
   t2:
-    title: "Crafty Assembly"
-    detail: "I printed the pages with a professional printer to get high quality colours. Each page is four pages glued together: 2 different coloured content pages each covered with a kraft paper, flap door page. The coloured pages were in sequence of CMYK as you move through the book. Then these pages were hole punched and the metal rings were put through. The metal rings play along with the playful but mature balance of the book's theme."
+    title: "Jekyll"
+    detail: "Used Jekyll to organize content and images consistently and as efficiently as possible across all pages. My rule was, if I'm copying and pasting, I must be doing it wrong."
   t3:
-    title: "Humour"
-    detail: "I'm a strong believer in that humour can lighten up any mood and relieve stress. Stress is often the main culprit for experiencing creative–block, therefore the content in this book looks to engage the reader through humour by making fun of them for having to check the answer or giving them a fun fact. It lightens the mood of the book, making it fun despite its purpose for helping graphic designers to get back on track."
+    title: "Java Script"
+    detail: "Used for smooth animations and transitions throughout the navigation of the website."
 
 site-final: "/work/this-site/final/"
 final:
-  title: "The final result"
-  video:
-  url: "https://vimeo.com/156213452"
+  title: "Yer lookin at it!"
+  result: <a class="blue-box" href="/">start from the beginning</a>

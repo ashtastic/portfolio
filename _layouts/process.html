@@ -5,7 +5,10 @@ layout: case-study
 {% assign portfolio = site.data[page.data] %}
 
 <div class="gutter-half push-2">
-  <div class="push-2">
+  <div class="push">
+    <div class="island-half push">
+      <img class="img-flex"src="{{site.baseurl}}/images/{{portfolio.process.image}}" alt="{{portfolio.process.alt}}">
+    </div>
     <h3 class="gutter-half text-lower">{{portfolio.process.title}}</h3>
     <div class="grid">
       <div class="unit xs-1 s-1 m-1-2 l-1-2 xl-1-2 gutter-half push-half">
@@ -19,11 +22,11 @@ layout: case-study
         <p>{{portfolio.process.p3.detail}}</p>
       </div>
     </div>
-    <div class="island-half">
-      <img class="img-flex"src="{{site.baseurl}}/images/{{portfolio.process.image}}" alt="{{portfolio.process.alt}}">
-    </div>
   </div>
   <div>
+    <div class="island-half push">
+      <img class="img-flex"src="{{site.baseurl}}/images/{{portfolio.technique.image}}" alt="{{portfolio.technique.alt}}">
+    </div>
     <h3 class="gutter-half text-lower">{{portfolio.technique.title}}</h3>
     <div class="grid">
       <div class="unit xs-1 s-1 m-1-2 l-1-2 xl-1-2 gutter-half push-half">
@@ -36,9 +39,6 @@ layout: case-study
         <h4 class="push-half kilo text-lower">{{portfolio.technique.t3.title}}</h4>
         <p>{{portfolio.technique.t3.detail}}</p>
       </div>
-    </div>
-    <div class="island-half">
-      <img class="img-flex"src="{{site.baseurl}}/images/{{portfolio.technique.image}}" alt="{{portfolio.technique.alt}}">
     </div>
   </div>
 </div>

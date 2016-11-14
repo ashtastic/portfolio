@@ -3,54 +3,56 @@ case-title: "Mitosis in Parallax"
 site-concept: "/work/mitosis/"
 concept:
   title: "The Concept"
-  detail: "A parallax animation of mitosis —nuclear division that produces two identical cells. Special thanks to Chilled Cow – the Chill Instrumental Hiphop & JazzHop Mix (Part 2/5) for the audio."
+  detail: "I wanted to challenge myself and create a parallax animation on something I knew nothing about. A tour of Google eventually led me to the multiple stages of cell division. Mitosis is that stage when the cell divides into two identical daughter cells —pretty awesome subject matter if you ask me. Plus, it presented an awesome opportunity to learn a new skill in After Effects."
   c1:
-    title: "Goopy animation"
-    detail: "The animation was created to give a thick gelatinous liquid feel to the cells, illustrating how cell division tends to look like, especially with the subtle wiggling like jello."
+    title: "Science First"
+    detail: "This being a real process, I wanted to capture a balance between the scientific and imaginary. I started by creating a sort of dumbed–down version of what you would see under the microscope as well as the typical movement and wiggle you often see. Only difference is I slapped some pupil–less eyes on to push it to a weird, creepy level. Nonetheless, the movement of mitosis takes precedence while the eyes pop out to support that step out of the realistic."
     image: mitosis-c1.jpg"
-    alt: "Gif of cell wiggling and dividing."
+    alt: "Image of cell in mid–divide, without eyeballs."
   c2:
-    title: "Colours and typography"
-    detail: "The pinkish fleshy colours were chosen to produce the look and feel of inside the body. "
+    title: "Create a Human Connection"
+    detail: "Since this is a motion graphic aimed to delight and amuse, I wanted to create a connection between the viewer and the cells. So, I personified the cells with eyeballs, and pink, fleshy colours, for details viewers would identify with as human. Also, cell division in itself is kind of creepy, and yet its happening in our bodies all the time. Adding the eyes, and giving them a human–feel, helped to capture that creepily familiar, but unknown, feeling."
     image: mitosis-c2.jpg"
-    alt: "Image of one of the cells on the dark pink background."
+    alt: "Image of cell with the eyes on pink background."
   c3:
-    title: "Grids"
-    detail: "Every element was laid out to a strict grid. For example, each typographical illustration was drawn by hand on a grid so to create unity among the individual pieces and the overall type layout, then brought into illustrator and formatted there."
+    title: "Capture the wonderment"
+    detail: "I couldn't help but feel a sense of wonderment when researching the process, and, rightfully so, I wanted to capture this in the finished piece. I did this through the music and simple camera animations in 3D to create a larger–than–life feel throughout the piece."
     image: mitosis-c3.jpg"
-    alt: "Photo of the grid used to layout out the content of the book."
+    alt: "Image of the depth of field in the video."
 
 site-process: "/work/mitosis/process/"
 process:
   title: "The process"
   image: "mitosis-p.jpg"
-  alt: "Photo of drawing one of the pieces."
+  alt: "Picture of rough storyboard work for Mitosis."
   p1:
-    title: "Research"
-    detail: "Researched as many graphic design terms I could find as well as looked at generic visual word teasers for inspiration."
+    title: "Storyboard and Development"
+    detail: "On my Google tour of Mitosis, I watched a lot of microscope videos and notes how quickly and random the cells populate through mitosis, as well as how cool the word MITOSIS is. I then sketched out the bare bones of a camera panning out and my personified cells dividing to reveal the word MITOSIS, and found a tutorial on a goopy cell division animation."
   p2:
-    title: "Graphic Design Terms"
-    detail: "Selected a few graphic design terms I could visualize as a pun and drew them out. This allowed me to weed out the weaker pieces and have a strong selection for the book."
+    title: "Scene Setup"
+    detail: "Once I got one cell animated the way I wanted, I duplicated it as a pre–composition in 3D space, placing them all over the x, y and z spaces of a new composition. As I built the piece, I staggered them to follow the music and reveal themselves as the camera pans out."
   p3:
-    title: "Build"
-    detail: "Once the hand work was done, everything was laid out in InDesign, traced and coloured in Illustrator, and cut, glued, whole punched, and assembled by hand."
+    title: "Choosing Music"
+    detail: "The music awesomely ties the whole piece together. I chose this particular clip for its whimsical echo, stretched segments, and tiny vocals. The echo supports the wonderment, the stretched segments support the division animation, and the tiny vocals support the tiny cells. Also, the eyes of the cells in focus pop out in sync with a consistent distinct beat."
 
 technique:
   title: "The technique"
   image: "mitosis-t.jpg"
-  alt: "Gif of assembling the book."
+  alt: "Image of After Effects window when learning how to animate the cell divide."
   t1:
-    title: "Strict Grid"
-    detail: "The layout of the book was set ahead of time in InDesign so that the proper grid could be printed and used to design the typographical illustrations. Each piece is different but they all have an overall coherency because of the grid. This also helped when laying out the flapdoor and content pages together."
+    title: "One Shape Does it all"
+    detail: "In my self-taught adventure, I discovered the power of the shape layer. The cell division animation consists of one shape layer with a rectangle that switches between a defined width but zero height and vice versa. Two eclipses are then added to this shape layer, moving them from the middle to either end of the width of the rectangle. I then manipulated the speed graph to dramatize the easy-ease for ultimate goopiness."
   t2:
-    title: "Crafty Assembly"
-    detail: "I printed the pages with a professional printer to get high quality colours. Each page is four pages glued together: 2 different coloured content pages each covered with a kraft paper, flap door page. The coloured pages were in sequence of CMYK as you move through the book. Then these pages were hole punched and the metal rings were put through. The metal rings play along with the playful but mature balance of the book's theme."
+    title: "The Power of Effects"
+    detail: "I gained a sound understanding of the roughen edges and turbulent displace effects creating this animation. The roughen edges plays with the alpha channel around the shape layer to give it that goopy feel, while the turbulent displace gives movement and disrupts the outer edges. These two effects were applied in tandem with wiggle and loopout expressions to make the cell movement more chaotic and natural."
   t3:
-    title: "Humour"
-    detail: "I'm a strong believer in that humour can lighten up any mood and relieve stress. Stress is often the main culprit for experiencing creative–block, therefore the content in this book looks to engage the reader through humour by making fun of them for having to check the answer or giving them a fun fact. It lightens the mood of the book, making it fun despite its purpose for helping graphic designers to get back on track."
+    title: "Camera for Parallax"
+    detail: "With everything placed in 3D space, I pulled a camera through the setting in sync with the music. The dept of field was adjusted to create a dramatic effect among the cells passing by, ensuring that when the camera stopped, one set would be clearly in view. Also, I manipulated the speed graph to give it this snapping effect to comply with the snappy movement of everything else in the composition, as well as the music."
 
 site-final: "/work/mitosis/final/"
 final:
   title: "The final result"
-  video:
-  url: "https://vimeo.com/156213452"
+  result: <div class="push"><div class="embed-container push"><iframe src="https://player.vimeo.com/video/188666897?loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><a class="blue-box" href="https://vimeo.com/188666897">https://vimeo.com/188666897</a>
+
+
+
