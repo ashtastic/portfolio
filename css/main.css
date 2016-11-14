@@ -27,7 +27,7 @@ html {
 
 /** EXTRA TYPE FORMATING **/
 
-p {
+p, li {
   font-weight: 300;
 }
 

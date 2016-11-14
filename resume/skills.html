@@ -11,7 +11,11 @@ layout: resume
         {% for resume in site.data.skills.column-a %}
           <li>
             <h3 class="push-half giga text-lower">{{resume.title}}</h3>
-            <p>{{resume.meta}}</p>
+            <ul class="list-group">
+              {% for meta in resume.meta %}
+                <li class="push-half">{{meta}}</li>
+              {% endfor %}
+            </ul>
           </li>
         {% endfor %}
       </ul>
@@ -22,7 +26,11 @@ layout: resume
           <li>
             <h3 class="push-half giga text-lower">{{resume.title}}</h3>
               <h4 class="push-half kilo">{{resume.date}}</h4>
-              <p>{{resume.meta}}</p>
+              <ul class="list-group">
+                {% for meta in resume.meta %}
+                  <li class="push-half">{{meta}}</li>
+                {% endfor %}
+              </ul>
           </li>
         {% endfor %}
       </ul>
