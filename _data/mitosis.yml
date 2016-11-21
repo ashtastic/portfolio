@@ -3,15 +3,15 @@ case-title: "Mitosis in Parallax"
 site-concept: "/work/mitosis/"
 concept:
   title: "The Concept"
-  detail: "I wanted to challenge myself and create a parallax animation on something I knew nothing about. A tour of Google eventually led me to the multiple stages of cell division. Mitosis is that stage when the cell divides into two identical daughter cells —pretty awesome subject matter if you ask me. Plus, it presented an awesome opportunity to learn a new skill in After Effects."
+  detail: "I wanted to challenge myself to learn a new skill and create a parallax animation on something I knew nothing about. A tour of Google eventually led me to the multiple stages of cell division. Mitosis is that stage when the cell divides into two identical daughter cells. Not only is Mitosis an awesome word, but the process itself offered some pretty cool subject matter."
   c1:
     title: "Science First"
-    detail: "This being a real process, I wanted to capture a balance between the scientific and imaginary. I started by creating a sort of dumbed–down version of what you would see under the microscope as well as the typical movement and wiggle you often see. Only difference is I slapped some pupil–less eyes on to push it to a weird, creepy level. Nonetheless, the movement of mitosis takes precedence while the eyes pop out to support that step out of the realistic."
+    detail: "This being a real process, I wanted to capture a balance between the scientific and imaginary. Therefore, the movement of mitosis — a dumbed-down version of what you would see under the microscope — took precedence over the overall piece while the eyes pop out to support that step out of the realistic."
     image: mitosis-c1.jpg"
     alt: "Image of cell in mid–divide, without eyeballs."
   c2:
     title: "Create a Human Connection"
-    detail: "Since this is a motion graphic aimed to delight and amuse, I wanted to create a connection between the viewer and the cells. So, I personified the cells with eyeballs, and pink, fleshy colours, for details viewers would identify with as human. Also, cell division in itself is kind of creepy, and yet its happening in our bodies all the time. Adding the eyes, and giving them a human–feel, helped to capture that creepily familiar, but unknown, feeling."
+    detail: "Since this is a motion graphic aimed to delight and amuse, I wanted to create a connection between the viewer and the cells. So, I personified the cells with eyeballs, and pink, fleshy colours, for details viewers would identify with as human."
     image: mitosis-c2.jpg"
     alt: "Image of cell with the eyes on pink background."
   c3:
@@ -27,13 +27,13 @@ process:
   alt: "Picture of rough storyboard work for Mitosis."
   p1:
     title: "Storyboard and Development"
-    detail: "On my Google tour of Mitosis, I watched a lot of microscope videos and notes how quickly and random the cells populate through mitosis, as well as how cool the word MITOSIS is. I then sketched out the bare bones of a camera panning out and my personified cells dividing to reveal the word MITOSIS, and found a tutorial on a goopy cell division animation."
+    detail: "On my Google tour of Mitosis, I watched videos of mitosis through the microscope, taking note of how the cells move, look and feel. I then sketched out a quick storyboard and a few key frames, and taught myself how to create the goopy cell division animation."
   p2:
     title: "Scene Setup"
     detail: "Once I got one cell animated the way I wanted, I duplicated it as a pre–composition in 3D space, placing them all over the x, y and z spaces of a new composition. As I built the piece, I staggered them to follow the music and reveal themselves as the camera pans out."
   p3:
     title: "Choosing Music"
-    detail: "The music awesomely ties the whole piece together. I chose this particular clip for its whimsical echo, stretched segments, and tiny vocals. The echo supports the wonderment, the stretched segments support the division animation, and the tiny vocals support the tiny cells. Also, the eyes of the cells in focus pop out in sync with a consistent distinct beat."
+    detail: "The music awesomely ties the whole piece together. I chose this particular clip for its whimsical echo, stretched segments, and tiny vocals. The echo supports the wonderment, the stretched segments support the division animation, and the tiny vocals support the tiny cells."
 
 technique:
   title: "The technique"
@@ -41,10 +41,10 @@ technique:
   alt: "Image of After Effects window when learning how to animate the cell divide."
   t1:
     title: "One Shape Does it all"
-    detail: "In my self-taught adventure, I discovered the power of the shape layer. The cell division animation consists of one shape layer with a rectangle that switches between a defined width but zero height and vice versa. Two eclipses are then added to this shape layer, moving them from the middle to either end of the width of the rectangle. I then manipulated the speed graph to dramatize the easy-ease for ultimate goopiness."
+    detail: "In my self-taught adventure, I discovered the power of the shape layer. The cell division animation consists of one shape layer. It begins with a rectangle that switches between a defined width but zero height and vice versa, and then two eclipses are added, moving them from the middle to either end of the width of the rectangle. I then added drama to the animation by manipulating the speed graph."
   t2:
     title: "The Power of Effects"
-    detail: "I gained a sound understanding of the roughen edges and turbulent displace effects creating this animation. The roughen edges plays with the alpha channel around the shape layer to give it that goopy feel, while the turbulent displace gives movement and disrupts the outer edges. These two effects were applied in tandem with wiggle and loopout expressions to make the cell movement more chaotic and natural."
+    detail: "Roughen edges and turbulent displace are what make the animation. The roughen edges plays with the alpha channel around the shape layer to give it that goopy feel, while the turbulent displace gives movement and disrupts the outer edges. These two effects were applied in tandem with wiggle and loopout expressions to make the cell movement more chaotic and natural."
   t3:
     title: "Camera for Parallax"
     detail: "With everything placed in 3D space, I pulled a camera through the setting in sync with the music. The dept of field was adjusted to create a dramatic effect among the cells passing by, ensuring that when the camera stopped, one set would be clearly in view. Also, I manipulated the speed graph to give it this snapping effect to comply with the snappy movement of everything else in the composition, as well as the music."

@@ -3,15 +3,15 @@ case-title: "Check & its animated interaction"
 site-concept: "/work/check/"
 concept:
   title: "The Concept"
-  detail: "I like challenging myself with topics I know nothing about. Cars are a great example because, not only do I not own one, but I am completely clueless when it comes to how they work. This unknown is what attracted me to the app's proposal, and I felt my lack of knowledge would offer a resourceful level of empathy towards the target users."
+  detail: "I like challenging myself with topics I know nothing about. Cars are a great example because, not only do I not own one, but I am completely clueless when it comes to how they work. This unknown is what attracted me to the app's proposal. I felt my lack of knowledge would offer a resourceful level of empathy towards the target users."
   c1:
     title: "Internet of Things"
-    detail: "This app displays fluid level information from cars. It looks to empower car owners by increasing their understanding of their vehicle. Therefore, I needed to design a simple interface in order to lighten the burden associated with understanding car maintenance."
+    detail: "Car maintenance is an arduous, sometimes daunting and scary, thing. So, in order to overcome this perspective and empower owners, the design needed to be simple, enjoyable to use, and mimic a car's typical environment."
     image: check-c1.jpg"
     alt: "Image of one of the widgets from the main screen."
   c2:
     title: "The mantra"
-    detail: "Although using your phone while driving is an enormous safety risk, it was the mantra used for designing and ensuring the simplest navigation and access to information. The user should be able to check the status of their car as quickly and directly as possible."
+    detail: "Although using your phone while driving is an enormous safety risk, it was the mantra used for designing and ensuring the simplest navigation and access to info. The user should be able to check the status of their car as quickly, and directly, as possible."
     image: check-c2.jpg"
     alt: "Image of the gas profile screen."
   c3:
@@ -27,10 +27,10 @@ process:
   alt: "Photo of app flow and rough sketches."
   p1:
     title: "Deciphering the needs"
-    detail: "I was provided the first stages of the project. This outline three main personas: students, service drivers and families. I went through the information and found the app needs to have the ability to monitor multiple cars, have a dark interface to limit distraction, have direct and short navigation, and mimic the car environment."
+    detail: "Poor students, busy service drivers, and multi–driver families were the target users. That meant the app had to be able to monitor multiple cars, have a dark interface to limit distraction while driving, and make it easy to evaluate and make decisions based on the data received from the vehicle, no matter the level of driving experience."
   p2:
     title: "Necessary UX principals"
-    detail: "I isolated the necessary UX principals, such as: a simple and clean interface for efficient access to information, graph and visual heavy to ease understanding, and a visual alert system to explicitly decipher between elements that are healthy and those that need your attention."
+    detail: "With mantra and users in mind, I isolated the necessary UX principals. These included a simple and clean interface for efficient access to information, graph and visual heavy to ease understanding, large click–able widgets, strategic navigation, and a visual alert system to explicitly decipher between elements that are healthy and those that need your attention."
   p3:
     title: "Design and Animation"
     detail: "I defined a solid, simple flow of how the visual elements, such as the graphs, would be displayed on the screen. I then designed the screens in Illustrator, isolated them, and put animated elements on separate layers. Once finished, I imported the screens to After Effects and applied consistent, carefully timed transitions across the screens to make a coherent overall experience."
@@ -41,10 +41,10 @@ technique:
   alt: "Image of the all the screens."
   t1:
     title: "Interface Design"
-    detail: "Using the the material design icons, sticker sheets, and whiteframes, I pieced together system and custom elements to make up the UI."
+    detail: "Using the the material design icons, sticker sheets, and whiteframes, I pieced together system and custom elements to make up the UI. The goal was to create a dark interface to help with bright distractions while driving."
   t2:
     title: "Iconography and graphs"
-    detail: "I designed the custom icons by first piecing together aspects of other icons to ensure coherent material design but still look as close to traditional dashboard icons as possible. The graphs all have consistent line work that fills up space like a liquid. This was animated in After Effects using the stroke effect and masks."
+    detail: "I designed the custom icons to be recognizable as dashboard icons but still follow material design characteristics. The graphs all have consistent line work that fills up space like a liquid. This was animated in After Effects using the stroke effect and masks."
   t3:
     title: "Animated Interaction"
     detail: "Strategically applied movement to the screens to reflect staggered transitions and entrances, side swipe movements, and the natural, non-distracting, but pleasant, appearance of elements."

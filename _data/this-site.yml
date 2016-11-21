@@ -3,20 +3,20 @@ case-title: "This Portfolio Site"
 site-concept: "/work/this-site/"
 concept:
   title: "The Concept & Branding"
-  detail:
+  detail: "My personal brand aims to attract the kind of awesome people I'd like to work with. It's a feel–good, conversational and approachable brand with character that's kind of weird and funny. It has a sort of childish maturity, where the goal is to be curious and fun balanced with solid and reliable hard work."
   c1:
     title: "Branding"
-    detail: "My brand is casual, stable and approachable maturity that dances on the border of a lack of seriousness. I like my work and ethic to speak for itself, so my brand is developed to be support for the work I show. You'll see simple, high contrast, rounded sans serif typography with hidden pink and blue hovers, lots of white space, and supporting elements like borders and rules to organize and display content."
+    detail: "I went through a few weeks of intense introspection, self–reflection, and design–soul searching. This included sketching, note taking, journal writing, unicorn drawing, moodboards, brandboards, and logo development."
     image: this-site-c1.jpg"
     alt: "Image of the moodboard."
   c2:
     title: "Typography"
-    detail: "My focus is on the screen. Therefore, my brand's font is a web font called Rubik and Rubik Mono from the GoogleFonts collection. It's a generous font with 10 styles, with the Rubik Mono being its stylized variation. This typeface borders the maturity yet playful balance that perfectly represents my look and feel. I want my site to be readable, but still have strong, optimistic personality. Rubik does the job perfectly."
+    detail: "My focus is on the screen. Therefore, my brand's font is a web font. This typeface perfectly borders a mature and playful balance that is readable and communicates the conversational, confident and optimistic personality of the Ashley brand."
     image: this-site-c2.jpg"
     alt: "Sample of Rubik and Rubik Mono."
   c3:
     title: "UX Focus"
-    detail: "Built to be a portfolio piece on its own, this site is meant to present as an example of good use of UX principals, as well as a product of challenging my skills in code. For example, because I wanted this site to be focused on case studies, it would be content heavy and thus challenges the use of simple navigation. I sketched multiple layouts, and ended with a double navigation with smart labeling. This prevents users from getting lost and lets them easily get to where they want without having to scroll needlessly."
+    detail: "Built to be a portfolio piece on its own, I wanted this site to be focused on case studies. However, this meant content heavy layouts and a challenge to simple navigation. After multiple sketches, the result was a double navigation that prevents users from getting lost or having to scroll needlessly."
     image: this-site-c3.jpg"
     alt: "Image of the letters UX."
 
@@ -27,10 +27,10 @@ process:
   alt: "Photo of the wireframes."
   p1:
     title: "Developed from the brand"
-    detail: "After extensive self reflection and deciding the direction I want to take in graphic design, it was an easy decision to focus on motion and UX/UI design. As a result, my portfolio website is a clean, simple interface, with white space, visual consistency, and the use of rules to separate content."
+    detail: "It was an easy decision to focus on motion and UX/UI design —I love making visual music with well thought–out design. As a result, my portfolio is a clean, simple interface, with white space, visual consistency, and the use of rules to separate content."
   p2:
     title: "Sketched and Wireframed"
-    detail: "I went through tonnes of sketches. I actually originally started out with a dancing robot. However, things changed after focus on my brand and more sketching. I eventually moved onto Illustrator and designed mock-ups and wireframes. Through these I defined my type, where to put elements, and consistent user conscious layouts across devices."
+    detail: "Having started with a dancing robot, things changed after extensive sketching and focus on my brand. I eventually moved onto Illustrator and designed mock-ups and wireframes. Through these I defined my type, where to put elements, and consistent user conscious layouts across devices."
   p3:
     title: "Coded"
     detail: "This site is coded using Jekyll, HTML5 and JavaScript. All pages are organized in the perfect balance where adding portfolio pieces relies solely on the effort of writing the content and collecting the visuals."
@@ -44,7 +44,7 @@ technique:
     detail: "I used previously developed type, column, modular, and grid systems to create a consistent layout across all devices and pages. These systems have type dependent spacing, and controlled column and grid organization."
   t2:
     title: "Jekyll"
-    detail: "Used Jekyll to organize content and images consistently and as efficiently as possible across all pages. My rule was, if I'm copying and pasting, I must be doing it wrong."
+    detail: "Used Jekyll to organize content and images consistently and as efficiently as possible across all pages. My rule was, if I'm copying and pasting, I would stop, and find a better way."
   t3:
     title: "Java Script"
     detail: "Used for smooth animations and transitions throughout the navigation of the website."
