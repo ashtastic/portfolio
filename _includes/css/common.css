@@ -1,0 +1,43 @@
+p, li {
+  font-weight: 300;
+}
+
+.strong, strong {
+  font-weight: 500;
+}
+
+.med {
+  font-weight: 400;
+}
+
+.blue {
+  color: #9dedf2;
+}
+
+.pink {
+  color: #fe7ca1;
+}
+
+.yellow {
+  color: #ffcb00;
+}
+
+.light {
+  color: #b3b3b3;
+}
+
+.logo {
+  height: 32px;
+}
+
+.mono {
+  font-family: 'Rubik Mono One', sans-serif;
+}
+
+.rule-b {
+  border-bottom: #000 solid 8px;
+}
+
+.rule-t {
+  border-top: #000 solid 8px;
+}
