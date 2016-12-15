@@ -1,0 +1,19 @@
+<div class="grid push">
+  <div class="unit xs-1-4 s-1-4 unit-m-hidden unit-l-hidden unit-xl-hidden">
+    <a class="icon i-24 left" href="{{site.baseurl}}/work/">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+        <path d="M420.7 587.2c-10 0-20-3.8-27.4-11.4l-237-237c-10.4-10.3-16-24-16-38.8 0-14.7 5.6-28.5 16-39l237-236.8c15-15.2 39.7-15.2 55 0 15 15.2 15 39.7 0 55l-221 221 221 221c15 15 15 39.6 0 54.8-7.7 7.4-17.6 11.2-27.6 11.2z"/>
+      </svg>
+    </a>
+  </div>
+  <div class="unit unit-xs-hidden unit-s-hidden m-1-2 l-1-2 xl-1-2 push text-left">
+    <a class="contact-icon mono" href="{{site.baseurl}}/">Ash Tastic Designs</a>
+  </div>
+  <nav class="unit xs-3-4 s-3-4 m-1-2 l-1-2 xl-1-2 text-right">
+    <ul class="list-group-inline">
+      <li><a href="{{site.baseurl}}/" class="{% if page.url == '/' %}current{% endif %} unit-xs-hidden unit-s-hidden m-1 l-1 xl-1 line-b strong text-lower" >Info</a></li>
+      <li class="gutter-2"><a href="{{site.baseurl}}/work/" class="{% if page.url contains 'work' %}current{% endif %} unit-xs-1 unit-s-1 unit-m-1 unit-l-1 unit-xl-1 line-b strong text-lower">Work</a></li>
+      <li><a href="{{site.baseurl}}/resume/" class="{% if page.url contains 'resume' %}current{% endif %} unit unit-xs-hidden unit-s-hidden m-1 l-1 xl-1 line-b strong text-lower">Resume</a></li>
+    </ul>
+  </nav>
+</div>
