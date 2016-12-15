@@ -1,4 +1,4 @@
-case-title: "Check & its animated interaction"
+case-title: "Check"
 
 site-concept: "/work/check/"
 concept:
@@ -51,5 +51,5 @@ technique:
 
 site-final: "/work/check/final/"
 final:
-  title: "The final result"
+  title:
   result: <div class="push"><div class="embed-container push"><iframe src="https://player.vimeo.com/video/190578928" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><a class="blue-box" href="https://vimeo.com/188666897">https://vimeo.com/188666897</a>

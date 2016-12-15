@@ -51,5 +51,5 @@ technique:
 
 site-final: "/work/beastie-boys/final/"
 final:
-  title: "The final result"
+  title:
   result: <div class="push"><div class="embed-container push"><iframe src="https://player.vimeo.com/video/156213452" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><a class="blue-box" href="https://vimeo.com/156213452">https://vimeo.com/156213452</a>

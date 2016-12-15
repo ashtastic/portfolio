@@ -51,5 +51,5 @@ technique:
 
 site-final: "/work/brew-guide/final/"
 final:
-  title: "The final result"
+  title:
   result: <div class="push"><img class="img-flex" src="/images/brew-guide-final.jpg" alt="Final layout of the Brew Guide app."></div>
