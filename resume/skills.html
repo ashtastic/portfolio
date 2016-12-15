@@ -1,15 +1,13 @@
 ---
-
 layout: resume
-
 ---
 
-<div class="push-2 pad-b-2">
+<div>
   <div class="grid">
     <div class="unit xs-1 s-1 m-1-2 l-1-2 xl-1-2 gutter">
       <ul class="list-group">
         {% for resume in site.data.skills.column-a %}
-          <li>
+          <li class="push-2">
             <h3 class="push-half giga text-lower">{{resume.title}}</h3>
             <ul class="list-group">
               {% for meta in resume.meta %}
@@ -23,7 +21,7 @@ layout: resume
     <div class="unit xs-1 s-1 m-1-2 l-1-2 xl-1-2 gutter">
       <ul class="list-group">
         {% for resume in site.data.skills.column-b %}
-          <li>
+          <li class="push-2">
             <h3 class="push-half giga text-lower">{{resume.title}}</h3>
               <h4 class="push-half kilo">{{resume.date}}</h4>
               <ul class="list-group">
