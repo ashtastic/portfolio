@@ -7,8 +7,8 @@ layout: default-hidden-work
 <div class="gutter">
   <nav class="rule-b">
     <ul class="nav push-half list-group-inline">
-      <li><a class="{% if page.url contains 'process' %}current-sub{% endif %} unit-xs-1 unit-s-1 unit-m-1 unit-l-1 unit-xl-1 line-t strong text-lower" href="{{site.baseurl}}{{portfolio.site-process}}">Process</a></li>
-      <li class="gutter-2"><a class="{% if page.url == {{portfolio.site-concept}} %}current-sub{% endif %} unit-xs-1 unit-s-1 unit-m-1 unit-l-1 unit-xl-1 line-t strong text-lower" href="{{site.baseurl}}{{portfolio.site-concept}}">Concept</a></li>
+      <li><a class="{% if page.url == {{portfolio.site-concept}} %}current-sub{% endif %} unit-xs-1 unit-s-1 unit-m-1 unit-l-1 unit-xl-1 line-t strong text-lower" href="{{site.baseurl}}{{portfolio.site-concept}}">Concept</a></li>
+      <li class="gutter-2"><a class="{% if page.url contains 'process' %}current-sub{% endif %} unit-xs-1 unit-s-1 unit-m-1 unit-l-1 unit-xl-1 line-t strong text-lower" href="{{site.baseurl}}{{portfolio.site-process}}">Process</a></li>
       <li><a class="{% if page.url contains 'final' %}current-sub{% endif %} unit-xs-1 unit-s-1 unit-m-1 unit-l-1 unit-xl-1 line-t strong text-lower" href="{{site.baseurl}}{{portfolio.site-final}}">Final</a></li>
     </ul>
   </nav>
